@@ -1,4 +1,4 @@
-## Project: Comparison of AutoML and traditional Machine Learning methods
+## Comparison of AutoML and traditional Machine Learning methods
 This project demonstrates advanced skills in classifying data using both traditional methods and modern AutoML tools.
 Team members: Agata Kopyt, Zuzanna Kotlińska.
 
