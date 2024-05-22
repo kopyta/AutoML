@@ -1,4 +1,4 @@
-# Project Overview: Hyperparameter Tuning of Machine Learning Algorithms
+# Tunability of Machine Learning Algorithms
 This project showcases the application of advanced hyperparameter tuning methods and provides insights into the tunability of popular machine learning algorithms, to see how their performance would change if the tuning was not tailor-made to the specific data. It was inspired by the paper [Tunability: Importance of Hyperparameters of Machine Learning Algorithms.](https://jmlr.org/papers/volume20/18-444/18-444.pdf).
 Team members: Agata Kopyt, Zuzanna Kotlińska
 
